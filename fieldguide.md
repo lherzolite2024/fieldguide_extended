@@ -305,6 +305,7 @@ style="max-width: 100%; max-height: 750px; height: auto;"/>
 **Fig. 3A14 _(extended online version only)_**. Outcrop on the shoreline at the bottom of the *Herbeira* cliffs exposing field relationships between different types of pyroxenites ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)). (**a.**) Overview of the outcrop highlighting the massive field occurrence of type-2 pyroxenites contrasting with branching type-1 pyroxenites in the upper part of the outcrop (**b.**) Detail view of strongly deformed pyroxenite-dunite association showing foliated type-3 pyroxenites and shear zones associated with late pyroxenite dykes.
 
 Based on the considerations above, the latter scenario (two subsequent melt intrusions) is here preferred and summarized below (**Fig. 3A15**):
+
 1. A Si-undersaturated melt such (_e.g._, ultra-calcic picrite) led to the formation of dunites and branching veins of replacive Ol clinopyroxenites (type 1) preserving dunite lenses (see **Stop 1.2**). Some websterites locally formed at higher melt/rock ratios. 
 
 2. A more Si-rich melt (_e.g._, boninite) led to the formation of primitive orthopyroxenites (type-4) and the more evolved, massive websterites (see **Stop 1.2** & **1.3**)
