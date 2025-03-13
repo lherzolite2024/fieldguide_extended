@@ -13,9 +13,6 @@ by [**Romain Tilhac**](https://romaintilhac.github.io/)<sup>1</sup>, [**Marco A.
 
 *Updated on 13/03/25. Thanks to Bill Griffin for proofreading.*
 
-%% MISSING : Pérez Moreira & Barral Silva 2003
-Brown _et al._ (2005) ????
-
 This is the extended online version (with additional discussion and illustrations) of the field guide that has been prepared for the pre-conference excursion of the [7<sup>th</sup> Orogenic Lherzolite Meeting](https://lherzolite2024.github.io), which was held in Oviedo, Asturias, from 30 September to 4 October 2024.
 
 This textbook can be cited in APA citation style as follows:
